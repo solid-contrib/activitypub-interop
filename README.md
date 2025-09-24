@@ -2,13 +2,13 @@
 
 This report will describe interoperability between [Solid](https://solidproject.org/TR/) and [ActivityPub](https://www.w3.org/TR/activitypub/).
 
-https://solid.github.io/activitypub-interop/
+https://solid-contrib.github.io/activitypub-interop/
 
 ## Background
 
 Please [Integrating ActivityPub within Solid specs](https://forum.solidproject.org/t/integrating-activitypub-within-solid-specs/8355) on Solid forum.
 
-## Invited gruops
+## Invited groups
 
 * [Solid CG](https://www.w3.org/groups/cg/solid/)
 * [Social Web Incubator](https://www.w3.org/groups/cg/socialcg/)
